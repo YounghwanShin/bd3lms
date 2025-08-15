@@ -1,3 +1,7 @@
+*.csv
+*.json
+samples*
+
 .DS_Store
 
 .hf_cache
